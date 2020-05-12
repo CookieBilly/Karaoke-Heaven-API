@@ -11,7 +11,7 @@ Public (no key requirement endpoints):
 Endpoint | Description
 ------------ | -------------
 /event/list | lists upcoming events
-/event/info/:eventid get information about an event
+/event/info/:eventid | get information about an event
 /slots/list | get a list of booked slots at current event
 /slots/:slotid | Get information about slots
 /coins/:userid | Get the coins of a user
